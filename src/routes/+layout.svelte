@@ -7,6 +7,7 @@
 
 <svelte:head>
   <link rel="icon" href={favicon} />
+  <title>justype</title>
 </svelte:head>
 
 {@render children?.()}
